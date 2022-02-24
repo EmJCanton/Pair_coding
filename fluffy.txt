@@ -1,5 +1,6 @@
 Fluffy deserves her own page <3
 Agreed, the life of fluffy
+<<<<<<< HEAD
 
 I will create a new branch in her name, follow me!
 =======
@@ -8,3 +9,7 @@ I'm impressed I followed :')
 
 Fluffy needs more recognition
 
+=======
+I will create a new branch in her name, follow me!
+can i fix thisssss
+>>>>>>> develop
